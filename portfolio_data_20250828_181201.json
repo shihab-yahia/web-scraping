@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "symbol": "45",
+      "name": "Bitcoin",
+      "asset_type": "crypto",
+      "current_price": 55842.51
+    }
+  ],
+  "transactions": [],
+  "expenses": [],
+  "portfolio_analysis": {
+    "TOTAL": 0
+  },
+  "export_date": "2025-08-28T18:12:01.921229"
+}
